@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on MERN Development<br>🌱 I’m currently learning more about React<br>💬 Ask me about javaScript, NOde,.js, Express.js, React, and MongoDB<br> <br>
+🔭 I’m currently working on MERN Development<br>🌱 I’m currently learning more about React,Typescript,and NextJs<br>💬 Ask me about javaScript, Node,.js, Express.js, React, and MongoDB<br> <br>
 
 ## 🌐 Socials:
 
