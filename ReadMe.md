@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on MERN Development<br>🌱 I’m currently learning more about React,Typescript,and NextJs<br>💬 Ask me about javaScript, Node,.js, Express.js, React, and MongoDB<br> <br>
+🔭 I’m currently working on MERN Development<br>🌱 I’m currently learning more about React, Typescript,and NextJs<br>💬 Ask me about javaScript, Node,.js, Express.js, React, Redux Tool-kit and MongoDB<br> <br>
 
 ## 🌐 Socials:
 
@@ -41,6 +41,6 @@
 
 ---
 
-<!-- [![](https://visitcount.itsvg.in/api?id=RahulPSkadumeni&icon=0&color=0)](https://visitcount.itsvg.in) -->
+![](https://visitcount.itsvg.in/api?id=RahulPSkadumeni&icon=0&color=0)](https://visitcount.itsvg.in).
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
